@@ -1,13 +1,10 @@
 # Airbnb_PowerBI
-Projeto voltado para a criação de Dashboards, através do Power BI, do Airbnb.
+Projeto voltado para a criação de Dashboards da empresa fictícia Tudo Aqui, através do Power BI e utilizando dados públicos disponibilizados pela Airbnb. Todos os dados utilizados nesse projeto são de domínio público e não infringem nenhuma regra da Lei Geral de Proteção dos Dados.
 
 ## 1. O Problema de Negócio
-A partir do trabalho que você tem realizado, o CEO e o Corpo Diretivo da Tudo Aqui estão com planos de expandir a empresa de modo a abranger o ramo de locação de quartos. Neste cenário, você deverá desenvolver uma análise criteriosa em um novo relatório do Power BI com os dados de New York dos anos de 2011 a 2017 disponibilizados pelo Airbnb. O CEO deseja um relatório com 
-apenas 2 dashboards, sendo 1 com as análises gráficas e 1 com os detalhes (tabela ou matriz). Os dados que devem ser analisados estão disponibilizados no seguinte link: 
-[Link do Repositório no Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+A partir do trabalho que você tem realizado, o CEO e o Corpo Diretivo da Tudo Aqui estão com planos de expandir a empresa de modo a abranger o ramo de locação de quartos. Neste cenário, você deverá desenvolver uma análise criteriosa em um novo relatório do Power BI com os dados de New York do ano de 2019 disponibilizado pelo Airbnb. O CEO deseja um relatório com apenas 2 dashboards, sendo 1 com as análises gráficas e 1 com os detalhes (tabela ou matriz). Os dados que devem ser analisados estão disponibilizados no seguinte link: [Link do Repositório no Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
-Após conversar com o CEO, vocês concluíram que as colunas consideradas 
-na análise e seus respectivos tipos de dados deverão ser: 
+Após conversar com o CEO, vocês concluíram que as colunas consideradas na análise e seus respectivos tipos de dados deverão ser: 
 
 * last_review - Data;
 * id - Número Inteiro;
